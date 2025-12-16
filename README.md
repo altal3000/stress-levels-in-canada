@@ -15,21 +15,21 @@ This project investigates the relationship between social factors, stress levels
 - Cleaning and filtering data from the Canadian Community Health Survey (CCHS)
 - Visual and statistical analysis of perceived stress across demographic, socioeconomic, social, and cultural dimensions
 - Simple predictive models assessing how stress levels relate to mental health outcomes
-- [Stress Levels.ipynb](Stress Levels.ipynb)
+- [Stress Levels (v1)](Stress Levels.ipynb)
 
 ### 2. Geospatial Analysis (Version 2)
 - Health-region–level mapping of perceived health, mental health, and life stress using CCHS 2022 data
 - Integration of survey data with Statistics Canada health region boundary files
 - Visual, comparative analysis without advanced statistical modeling
-- [Stress Levels – Geospatial (v2).ipynb](Stress_Levels_Geospatial_v2.ipynb)
+- [Stress Levels (v2)](Stress_Levels_v2.ipynb)
 
 ### 2. Tableau Dashboards
 - Interactive dashboards summarizing key patterns for Version 1 and 2
-- [View Version 1 on Tableau Public](https://public.tableau.com/shared/YBCP553YY?:display_count=n&:origin=viz_share_link)
-- [View Version 2 on Tableau Public](https://public.tableau.com/shared/YBCP553YY?:display_count=n&:origin=viz_share_link)
+- [View Version 1 on Tableau Public](https://public.tableau.com/app/profile/aleksej.talstou/viz/StressLevelsinCanada/Dashboard)
+- [View Version 2 on Tableau Public](https://public.tableau.com/app/profile/aleksej.talstou/viz/StresLevelsinCanadav2/Dashboard?publish=yes)
 
-![Dashboard Preview v1](Stress_Levels_in_Canada_Tableau_Preview1.png)  
-![Dashboard Preview v2](Stress_Levels_in_Canada_Tableau_Preview2.png)   
+![Dashboard Preview v1](Stress Levels Preview v1.png)  
+![Dashboard Preview v2](Stress Levels Preview v2.png)   
 
 ---
 
