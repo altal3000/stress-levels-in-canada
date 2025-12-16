@@ -23,7 +23,7 @@ This project investigates the relationship between social factors, stress levels
 - Visual, comparative analysis without advanced statistical modeling
 - [Stress Levels (v2)](Stress_Levels_v2.ipynb)
 
-### 2. Tableau Dashboards
+### 3. Tableau Dashboards
 - Interactive dashboards summarizing key patterns for Version 1 and 2
 - [View Version 1 on Tableau Public](https://public.tableau.com/app/profile/aleksej.talstou/viz/StressLevelsinCanada/Dashboard)
 - [View Version 2 on Tableau Public](https://public.tableau.com/app/profile/aleksej.talstou/viz/StresLevelsinCanadav2/Dashboard?publish=yes)
