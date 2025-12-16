@@ -28,8 +28,12 @@ This project investigates the relationship between social factors, stress levels
 - [View Version 1 on Tableau Public](https://public.tableau.com/app/profile/aleksej.talstou/viz/StressLevelsinCanada/Dashboard)
 - [View Version 2 on Tableau Public](https://public.tableau.com/app/profile/aleksej.talstou/viz/StresLevelsinCanadav2/Dashboard?publish=yes)
 
-[Dashboard Preview v1](Stress Levels Preview v1.png)  
-[Dashboard Preview v2](Stress Levels Preview v2.png)   
+**Version 1**
+![Dashboard Preview v1](Stress%20Levels%20Preview%20v1.png)
+
+**Version 2**
+![Dashboard Preview v2](Stress%20Levels%20Preview%20v2.png)
+   
 
 ---
 
