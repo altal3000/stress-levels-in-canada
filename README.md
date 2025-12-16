@@ -47,6 +47,13 @@ The first version of the analysis is based on the **Canadian Community Health Su
 
 *Adapted from Statistics Canada, Canadian Community Health Survey: Public Use Microdata File, 2019/2020, June 23, 2025. This does not constitute an endorsement by Statistics Canada of this product.*
 
+#### Geospatial Data (Version 1)
+Geographic boundaries are based on the **2016 Census - Boundary files. Provinces/territories. Cartographic Boundary File** shapefile, released 2016, by Statistics Canada.
+
+[2016 Census - Boundary files](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm)
+
+*Adapted from Statistics Canada, 2016 Census - Boundary files, June 23, 2025. This does not constitute an endorsement by Statistics Canada of this product.*
+
 ---
 
 ### Version 2 (2022)
