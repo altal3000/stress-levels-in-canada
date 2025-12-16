@@ -15,7 +15,7 @@ This project investigates the relationship between social factors, stress levels
 - Cleaning and filtering data from the Canadian Community Health Survey (CCHS)
 - Visual and statistical analysis of perceived stress across demographic, socioeconomic, social, and cultural dimensions
 - Simple predictive models assessing how stress levels relate to mental health outcomes
-- [Stress Levels (v1)](Stress Levels.ipynb)
+- [Stress Levels (v2)](Stress_Levels.ipynb)
 
 ### 2. Geospatial Analysis (Version 2)
 - Health-region–level mapping of perceived health, mental health, and life stress using CCHS 2022 data
